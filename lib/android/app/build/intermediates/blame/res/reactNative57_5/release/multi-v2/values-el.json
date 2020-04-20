@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative57_5ReleaseResources/merged.dir/values-el/values-el.xml",
+            "outputFile": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/values-el/values-el.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/values-el/values-el.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,10 +33,10 @@
             ]
         },
         {
-            "outputFile": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/values-el/values-el.xml",
+            "outputFile": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative57_5ReleaseResources/merged.dir/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/values-el/values-el.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -46,7 +46,7 @@
                     }
                 },
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/values-el/values-el.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative56ReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative56ReleaseResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/values-v16/values-v16.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,25 +20,25 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/values-v16/values-v16.xml",
+            "outputFile": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/values-v16/values-v16.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -64,6 +54,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

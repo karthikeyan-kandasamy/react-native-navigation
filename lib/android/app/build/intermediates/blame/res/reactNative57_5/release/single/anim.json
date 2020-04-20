@@ -1,122 +1,122 @@
 [
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/slide_down.xml",
-        "source": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/res/anim/slide_down.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d8a6dbdccaca8d4556f1757dfe58dcfa/fab-1.6.4/res/anim/fab_slide_out_to_left.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_fade_in.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_fade_in.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_snackbar_out.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/anim/design_snackbar_out.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/slide_up.xml",
+        "source": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/res/anim/slide_up.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_in_from_left.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/0349f3fb72d488f1f7b7e56cf1d7d8b3/res/anim/fab_slide_in_from_left.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2be460faf514c848ba6a4301a70ebac0/jetified-react-native-0.59.9/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_scale_up.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d8a6dbdccaca8d4556f1757dfe58dcfa/fab-1.6.4/res/anim/fab_scale_up.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_push_up_in.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/bf9ce98bd3fcd42608c892f7438f842d/res/anim/catalyst_push_up_in.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/slide_down.xml",
+        "source": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/res/anim/slide_down.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/slide_up.xml",
-        "source": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/res/anim/slide_up.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_popup_exit.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_fade_out.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_fade_out.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_tooltip_enter.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_fade_out.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/bf9ce98bd3fcd42608c892f7438f842d/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_tooltip_exit.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_tooltip_exit.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_scale_down.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/0349f3fb72d488f1f7b7e56cf1d7d8b3/res/anim/fab_scale_down.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2be460faf514c848ba6a4301a70ebac0/jetified-react-native-0.59.9/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_popup_enter.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d8a6dbdccaca8d4556f1757dfe58dcfa/fab-1.6.4/res/anim/fab_slide_in_from_left.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/anim/design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_snackbar_out.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_in_from_right.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/0349f3fb72d488f1f7b7e56cf1d7d8b3/res/anim/fab_slide_in_from_right.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d8a6dbdccaca8d4556f1757dfe58dcfa/fab-1.6.4/res/anim/fab_slide_out_to_right.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_popup_exit.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_scale_down.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d8a6dbdccaca8d4556f1757dfe58dcfa/fab-1.6.4/res/anim/fab_scale_down.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_out_to_right.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/0349f3fb72d488f1f7b7e56cf1d7d8b3/res/anim/fab_slide_out_to_right.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2be460faf514c848ba6a4301a70ebac0/jetified-react-native-0.59.9/res/anim/catalyst_slide_up.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_slide_up.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/bf9ce98bd3fcd42608c892f7438f842d/res/anim/catalyst_slide_up.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_fade_in.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_popup_enter.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_fade_in.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/bf9ce98bd3fcd42608c892f7438f842d/res/anim/catalyst_fade_in.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2be460faf514c848ba6a4301a70ebac0/jetified-react-native-0.59.9/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_push_up_out.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/bf9ce98bd3fcd42608c892f7438f842d/res/anim/catalyst_push_up_out.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2be460faf514c848ba6a4301a70ebac0/jetified-react-native-0.59.9/res/anim/catalyst_fade_in.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_snackbar_in.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/anim/design_snackbar_in.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_scale_up.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/0349f3fb72d488f1f7b7e56cf1d7d8b3/res/anim/fab_scale_up.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_out_to_left.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/0349f3fb72d488f1f7b7e56cf1d7d8b3/res/anim/fab_slide_out_to_left.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_fade_out.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d8a6dbdccaca8d4556f1757dfe58dcfa/fab-1.6.4/res/anim/fab_slide_in_from_right.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_slide_down.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/bf9ce98bd3fcd42608c892f7438f842d/res/anim/catalyst_slide_down.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2be460faf514c848ba6a4301a70ebac0/jetified-react-native-0.59.9/res/anim/catalyst_fade_out.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_tooltip_enter.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_tooltip_enter.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/anim/abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/anim/design_snackbar_in.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/anim/design_snackbar_in.xml"
     }
 ]

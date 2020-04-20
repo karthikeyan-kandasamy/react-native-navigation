@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<issues format="5" by="lint 3.4.1">
+<issues format="5" by="lint 3.5.3">
 
     <issue
         id="DefaultLocale"
@@ -14,7 +14,7 @@
         errorLine1="  if (fontFamilyName.toLowerCase().contains(&quot;bold&quot;)) {"
         errorLine2="                     ~~~~~~~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/utils/TypefaceLoader.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/utils/TypefaceLoader.java"
             line="43"
             column="22"/>
     </issue>
@@ -32,7 +32,7 @@
         errorLine1="  } else if (fontFamilyName.toLowerCase().contains(&quot;italic&quot;)) {"
         errorLine2="                            ~~~~~~~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/utils/TypefaceLoader.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/utils/TypefaceLoader.java"
             line="45"
             column="29"/>
     </issue>
@@ -48,8 +48,8 @@
         errorLine1="    implementation &quot;com.google.android.material:material:1.0.0&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build.gradle"
-            line="96"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build.gradle"
+            line="97"
             column="5"/>
     </issue>
 
@@ -64,8 +64,56 @@
         errorLine1="    implementation &quot;androidx.appcompat:appcompat:1.0.0&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build.gradle"
-            line="97"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build.gradle"
+            line="98"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of com.github.wix-playground:ahbottomnavigation than 2.4.9 is available: 3.2.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    implementation &apos;com.github.wix-playground:ahbottomnavigation:2.4.9&apos;"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build.gradle"
+            line="101"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of com.github.wix-playground:reflow-animator than 1.0.4 is available: 1.0.6"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    implementation &apos;com.github.wix-playground:reflow-animator:1.0.4&apos;"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build.gradle"
+            line="102"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of org.mockito:mockito-core than 2.13.0 is available: 2.28.2"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    testImplementation &apos;org.mockito:mockito-core:2.13.0&apos;"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build.gradle"
+            line="113"
             column="5"/>
     </issue>
 
@@ -80,7 +128,7 @@
         errorLine1="                &quot;textSize&quot;,"
         errorLine2="                ~~~~~~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/element/animators/TextSizeAnimator.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/element/animators/TextSizeAnimator.java"
             line="28"
             column="17"/>
     </issue>
@@ -96,7 +144,7 @@
         errorLine1="public class Fab extends FloatingActionButton implements FabAnimator {"
         errorLine2="             ~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/Fab.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/Fab.java"
             line="21"
             column="14"/>
     </issue>
@@ -112,7 +160,7 @@
         errorLine1="public class FabMenu extends FloatingActionMenu implements FabAnimator {"
         errorLine2="             ~~~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/FabMenu.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/FabMenu.java"
             line="13"
             column="14"/>
     </issue>
@@ -128,7 +176,7 @@
         errorLine1="                    removeGravityParam(layoutParamsFrame, Gravity.LEFT);"
         errorLine2="                                                                  ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="147"
             column="67"/>
     </issue>
@@ -144,7 +192,7 @@
         errorLine1="                    setGravityParam(layoutParamsFrame, Gravity.RIGHT);"
         errorLine2="                                                               ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="148"
             column="64"/>
     </issue>
@@ -160,7 +208,7 @@
         errorLine1="                    removeGravityParam(layoutParamsFrame, Gravity.RIGHT);"
         errorLine2="                                                                  ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="151"
             column="67"/>
     </issue>
@@ -176,7 +224,7 @@
         errorLine1="                    setGravityParam(layoutParamsFrame, Gravity.LEFT);"
         errorLine2="                                                               ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="152"
             column="64"/>
     </issue>
@@ -192,7 +240,7 @@
         errorLine1="                setGravityParam(layoutParamsFrame, Gravity.RIGHT);"
         errorLine2="                                                           ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="155"
             column="60"/>
     </issue>
@@ -208,7 +256,7 @@
         errorLine1="                    removeGravityParam(layoutParamsFrame, Gravity.LEFT);"
         errorLine2="                                                                  ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="218"
             column="67"/>
     </issue>
@@ -224,7 +272,7 @@
         errorLine1="                    setGravityParam(layoutParamsFrame, Gravity.RIGHT);"
         errorLine2="                                                               ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="219"
             column="64"/>
     </issue>
@@ -240,7 +288,7 @@
         errorLine1="                    removeGravityParam(layoutParamsFrame, Gravity.RIGHT);"
         errorLine2="                                                                  ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="222"
             column="67"/>
     </issue>
@@ -256,7 +304,7 @@
         errorLine1="                    setGravityParam(layoutParamsFrame, Gravity.LEFT);"
         errorLine2="                                                               ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/FabPresenter.java"
             line="223"
             column="64"/>
     </issue>
@@ -272,7 +320,7 @@
         errorLine1="     if (getView().isDrawerOpen(Gravity.LEFT)) {"
         errorLine2="                                        ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="44"
             column="41"/>
     </issue>
@@ -288,7 +336,7 @@
         errorLine1="        } else if (getView().isDrawerOpen(Gravity.RIGHT)) {"
         errorLine2="                                                  ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="46"
             column="51"/>
     </issue>
@@ -304,7 +352,7 @@
         errorLine1="        if (getView().isDrawerOpen(Gravity.LEFT) || getView().isDrawerOpen(Gravity.RIGHT)) {"
         errorLine2="                                                                                   ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="103"
             column="84"/>
     </issue>
@@ -320,7 +368,7 @@
         errorLine1="        if (getView().isDrawerOpen(Gravity.LEFT) || getView().isDrawerOpen(Gravity.RIGHT)) {"
         errorLine2="                                           ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="103"
             column="44"/>
     </issue>
@@ -336,7 +384,7 @@
         errorLine1="        if (gravity == Gravity.LEFT) {"
         errorLine2="                               ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="128"
             column="32"/>
     </issue>
@@ -352,7 +400,7 @@
         errorLine1="        } else if (gravity == Gravity.RIGHT) {"
         errorLine2="                                      ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="131"
             column="39"/>
     </issue>
@@ -368,7 +416,7 @@
         errorLine1="        getView().addView(controller.getView(), new LayoutParams(width, height, Gravity.LEFT));"
         errorLine2="                                                                                        ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="157"
             column="89"/>
     </issue>
@@ -384,7 +432,7 @@
         errorLine1="        getView().addView(controller.getView(), new LayoutParams(width, height, Gravity.RIGHT));"
         errorLine2="                                                                                        ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/viewcontrollers/sidemenu/SideMenuController.java"
             line="164"
             column="89"/>
     </issue>
@@ -400,7 +448,7 @@
         errorLine1="        if (sideMenu.isDrawerOpen(Gravity.LEFT)) {"
         errorLine2="                                          ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="18"
             column="43"/>
     </issue>
@@ -416,7 +464,7 @@
         errorLine1="            sideMenu.closeDrawer(Gravity.LEFT);"
         errorLine2="                                         ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="19"
             column="42"/>
     </issue>
@@ -432,7 +480,7 @@
         errorLine1="        if (sideMenu.isDrawerOpen(Gravity.RIGHT)) {"
         errorLine2="                                          ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="22"
             column="43"/>
     </issue>
@@ -448,7 +496,7 @@
         errorLine1="            sideMenu.closeDrawer(Gravity.RIGHT);"
         errorLine2="                                         ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="23"
             column="42"/>
     </issue>
@@ -464,7 +512,7 @@
         errorLine1="        sideMenu.setDrawerLockMode(leftLockMode, Gravity.LEFT);"
         errorLine2="                                                         ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="46"
             column="58"/>
     </issue>
@@ -480,7 +528,7 @@
         errorLine1="        sideMenu.setDrawerLockMode(rightLockMode, Gravity.RIGHT);"
         errorLine2="                                                          ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="49"
             column="59"/>
     </issue>
@@ -496,7 +544,7 @@
         errorLine1="            sideMenu.openDrawer(Gravity.LEFT, options.left.animate.get(true));"
         errorLine2="                                        ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="54"
             column="41"/>
     </issue>
@@ -512,7 +560,7 @@
         errorLine1="            sideMenu.closeDrawer(Gravity.LEFT, options.left.animate.get(true));"
         errorLine2="                                         ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="56"
             column="42"/>
     </issue>
@@ -528,7 +576,7 @@
         errorLine1="            sideMenu.openDrawer(Gravity.RIGHT, options.right.animate.get(true));"
         errorLine2="                                        ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="60"
             column="41"/>
     </issue>
@@ -544,7 +592,7 @@
         errorLine1="            sideMenu.closeDrawer(Gravity.RIGHT, options.right.animate.get(true));"
         errorLine2="                                         ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="62"
             column="42"/>
     </issue>
@@ -560,7 +608,7 @@
         errorLine1="            sideMenu.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED, Gravity.LEFT);"
         errorLine2="                                                                                     ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="68"
             column="86"/>
     </issue>
@@ -576,7 +624,7 @@
         errorLine1="            sideMenu.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED, Gravity.LEFT);"
         errorLine2="                                                                                ~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="70"
             column="81"/>
     </issue>
@@ -592,7 +640,7 @@
         errorLine1="            sideMenu.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED, Gravity.RIGHT);"
         errorLine2="                                                                                     ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="74"
             column="86"/>
     </issue>
@@ -608,7 +656,7 @@
         errorLine1="            sideMenu.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED, Gravity.RIGHT);"
         errorLine2="                                                                                ~~~~~">
         <location
-            file="/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
+            file="/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/presentation/SideMenuPresenter.java"
             line="76"
             column="81"/>
     </issue>

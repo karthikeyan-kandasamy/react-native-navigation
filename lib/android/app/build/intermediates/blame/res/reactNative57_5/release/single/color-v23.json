@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_default.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_tint_default.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/design_tint_password_toggle.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/color-v23/design_tint_password_toggle.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_tint_spinner.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/color-v23/abc_tint_edittext.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative57_5/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
     }
 ]

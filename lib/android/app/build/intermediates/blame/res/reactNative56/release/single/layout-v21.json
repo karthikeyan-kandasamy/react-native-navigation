@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/bottom_navigation_small_item.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/702adda10e4cfc3c7d2d395673313f20/res/layout-v21/bottom_navigation_small_item.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/932301f671051b010985d8163a74c8cb/jetified-ahbottomnavigation-2.4.9/res/layout-v21/bottom_navigation_small_item.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/bottom_navigation_item.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/702adda10e4cfc3c7d2d395673313f20/res/layout-v21/bottom_navigation_item.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_action.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/932301f671051b010985d8163a74c8cb/jetified-ahbottomnavigation-2.4.9/res/layout-v21/bottom_navigation_item.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_action.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/58714dcbd2f453a1b8ad7f82b08a890d/res/layout-v21/notification_action.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/43cac98ec2492d0d76d63f873ea465c1/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

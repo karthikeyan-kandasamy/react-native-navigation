@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/debug/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/debug/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
-        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/f2e21a3484c885ef30f33cf2625a4b51/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+        "merged": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/res/merged/reactNative56/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/d043178684751888ae9978f15d66721a/material-1.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

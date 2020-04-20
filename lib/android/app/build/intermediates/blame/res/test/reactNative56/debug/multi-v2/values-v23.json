@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/priya/Desktop/Test-ReactNative-Android/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative56DebugUnitTestResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/priya/Desktop/TestDevops/node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/mergeReactNative56DebugUnitTestResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/fde6e7949d400d997214b7d7f0935d32/res/values-v23/values-v23.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/4a87497f260b3aae4504b6f0b4140b12/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/97a962e24555f9174eeb69176446b805/res/values-v23/values-v23.xml",
+                    "source": "/Users/priya/.gradle/caches/transforms-2/files-2.1/2b4dc21207b9451c3905dc56ca029219/appcompat-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -173,10 +173,10 @@ document.getElementById(id).style.display = 'none';
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
-      <span class="mdl-layout-title">Lint Report: 1 error and 37 warnings</span>
+      <span class="mdl-layout-title">Lint Report: 1 error and 40 warnings</span>
       <div class="mdl-layout-spacer"></div>
       <nav class="mdl-navigation mdl-layout--large-screen-only">
-Check performed at Thu Apr 09 16:00:28 IST 2020      </nav>
+Check performed at Mon Apr 20 10:34:14 IST 2020      </nav>
     </div>
   </header>
   <div class="mdl-layout__drawer">
@@ -184,7 +184,7 @@ Check performed at Thu Apr 09 16:00:28 IST 2020      </nav>
     <nav class="mdl-navigation">
       <a class="mdl-navigation__link" href="#overview"><i class="material-icons">dashboard</i>Overview</a>
       <a class="mdl-navigation__link" href="#DefaultLocale"><i class="material-icons warning-icon">warning</i>Implied default locale in case conversion (2)</a>
-      <a class="mdl-navigation__link" href="#GradleDependency"><i class="material-icons warning-icon">warning</i>Obsolete Gradle Dependency (2)</a>
+      <a class="mdl-navigation__link" href="#GradleDependency"><i class="material-icons warning-icon">warning</i>Obsolete Gradle Dependency (5)</a>
       <a class="mdl-navigation__link" href="#ObjectAnimatorBinding"><i class="material-icons error-icon">error</i>Incorrect ObjectAnimator Property (1)</a>
       <a class="mdl-navigation__link" href="#ViewConstructor"><i class="material-icons warning-icon">warning</i>Missing View constructors for XML inflation (2)</a>
       <a class="mdl-navigation__link" href="#RtlHardcoded"><i class="material-icons warning-icon">warning</i>Using left/right instead of start/end attributes (31)</a>
@@ -206,7 +206,7 @@ Check performed at Thu Apr 09 16:00:28 IST 2020      </nav>
 <td class="countColumn">2</td><td class="issueColumn"><i class="material-icons warning-icon">warning</i>
 <a href="#DefaultLocale">DefaultLocale</a>: Implied default locale in case conversion</td></tr>
 <tr>
-<td class="countColumn">2</td><td class="issueColumn"><i class="material-icons warning-icon">warning</i>
+<td class="countColumn">5</td><td class="issueColumn"><i class="material-icons warning-icon">warning</i>
 <a href="#GradleDependency">GradleDependency</a>: Obsolete Gradle Dependency</td></tr>
 <tr>
 <td class="countColumn">1</td><td class="issueColumn"><i class="material-icons error-icon">error</i>
@@ -221,7 +221,7 @@ Check performed at Thu Apr 09 16:00:28 IST 2020      </nav>
 <tr>
 <td class="countColumn">31</td><td class="issueColumn"><i class="material-icons warning-icon">warning</i>
 <a href="#RtlHardcoded">RtlHardcoded</a>: Using left/right instead of start/end attributes</td></tr>
-<tr><td></td><td class="categoryColumn"><a href="#MissingIssues">Disabled Checks (32)</a>
+<tr><td></td><td class="categoryColumn"><a href="#MissingIssues">Disabled Checks (33)</a>
 </td></tr></table>
 <br/>              </div>
               <div class="mdl-card__actions mdl-card--border">
@@ -297,23 +297,49 @@ Dismiss</button>            </div>
               <div class="mdl-card__supporting-text">
 <div class="issue">
 <div class="warningslist">
-<span class="location"><a href="../../build.gradle">../../build.gradle</a>:96</span>: <span class="message">A newer version of com.google.android.material:material than 1.0.0 is available: 1.1.0</span><br /><pre class="errorlines">
-<span class="lineno">  93 </span>
-<span class="lineno">  94 </span>dependencies {
-<span class="lineno">  95 </span>    implementation fileTree(include: [<span class="string">'*.jar'</span>], dir: <span class="string">'libs'</span>)
-<span class="caretline"><span class="lineno">  96 </span>    <span class="warning">implementation <span class="string">"com.google.android.material:material:1.0.0"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno">  97 </span>    implementation <span class="string">"androidx.appcompat:appcompat:1.0.0"</span>
-<span class="lineno">  98 </span>    implementation <span class="string">"androidx.legacy:legacy-support-v4:1.0.0"</span>
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:97</span>: <span class="message">A newer version of com.google.android.material:material than 1.0.0 is available: 1.1.0</span><br /><pre class="errorlines">
+<span class="lineno">  94 </span>
+<span class="lineno">  95 </span>dependencies {
+<span class="lineno">  96 </span>    implementation fileTree(include: [<span class="string">'*.jar'</span>], dir: <span class="string">'libs'</span>)
+<span class="caretline"><span class="lineno">  97 </span>    <span class="warning">implementation <span class="string">"com.google.android.material:material:1.0.0"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno">  98 </span>    implementation <span class="string">"androidx.appcompat:appcompat:1.0.0"</span>
+<span class="lineno">  99 </span>    implementation <span class="string">"androidx.legacy:legacy-support-v4:1.0.0"</span>
 </pre>
 
-<span class="location"><a href="../../build.gradle">../../build.gradle</a>:97</span>: <span class="message">A newer version of androidx.appcompat:appcompat than 1.0.0 is available: 1.1.0</span><br /><pre class="errorlines">
-<span class="lineno">  94 </span>dependencies {
-<span class="lineno">  95 </span>    implementation fileTree(include: [<span class="string">'*.jar'</span>], dir: <span class="string">'libs'</span>)
-<span class="lineno">  96 </span>    implementation <span class="string">"com.google.android.material:material:1.0.0"</span>
-<span class="caretline"><span class="lineno">  97 </span>    <span class="warning">implementation <span class="string">"androidx.appcompat:appcompat:1.0.0"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno">  98 </span>    implementation <span class="string">"androidx.legacy:legacy-support-v4:1.0.0"</span>
-<span class="lineno">  99 </span>
-<span class="lineno"> 100 </span>    implementation <span class="string">'com.github.wix-playground:ahbottomnavigation:2.4.9'</span></pre>
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:98</span>: <span class="message">A newer version of androidx.appcompat:appcompat than 1.0.0 is available: 1.1.0</span><br /><pre class="errorlines">
+<span class="lineno">  95 </span>dependencies {
+<span class="lineno">  96 </span>    implementation fileTree(include: [<span class="string">'*.jar'</span>], dir: <span class="string">'libs'</span>)
+<span class="lineno">  97 </span>    implementation <span class="string">"com.google.android.material:material:1.0.0"</span>
+<span class="caretline"><span class="lineno">  98 </span>    <span class="warning">implementation <span class="string">"androidx.appcompat:appcompat:1.0.0"</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno">  99 </span>    implementation <span class="string">"androidx.legacy:legacy-support-v4:1.0.0"</span>
+<span class="lineno"> 100 </span>
+<span class="lineno"> 101 </span>    implementation <span class="string">'com.github.wix-playground:ahbottomnavigation:2.4.9'</span></pre>
+
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:101</span>: <span class="message">A newer version of com.github.wix-playground:ahbottomnavigation than 2.4.9 is available: 3.2.0</span><br /><pre class="errorlines">
+<span class="lineno">  98 </span>    implementation <span class="string">"androidx.appcompat:appcompat:1.0.0"</span>
+<span class="lineno">  99 </span>    implementation <span class="string">"androidx.legacy:legacy-support-v4:1.0.0"</span>
+<span class="lineno"> 100 </span>
+<span class="caretline"><span class="lineno"> 101 </span>    <span class="warning">implementation <span class="string">'com.github.wix-playground:ahbottomnavigation:2.4.9'</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 102 </span>    implementation <span class="string">'com.github.wix-playground:reflow-animator:1.0.4'</span>
+<span class="lineno"> 103 </span>    implementation <span class="string">'com.github.clans:fab:1.6.4'</span>
+</pre>
+
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:102</span>: <span class="message">A newer version of com.github.wix-playground:reflow-animator than 1.0.4 is available: 1.0.6</span><br /><pre class="errorlines">
+<span class="lineno">  99 </span>    implementation <span class="string">"androidx.legacy:legacy-support-v4:1.0.0"</span>
+<span class="lineno"> 100 </span>
+<span class="lineno"> 101 </span>    implementation <span class="string">'com.github.wix-playground:ahbottomnavigation:2.4.9'</span>
+<span class="caretline"><span class="lineno"> 102 </span>    <span class="warning">implementation <span class="string">'com.github.wix-playground:reflow-animator:1.0.4'</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 103 </span>    implementation <span class="string">'com.github.clans:fab:1.6.4'</span>
+<span class="lineno"> 104 </span>
+<span class="lineno"> 105 </span>    <span class="comment">//noinspection GradleDynamicVersion</span></pre>
+
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:113</span>: <span class="message">A newer version of org.mockito:mockito-core than 2.13.0 is available: 2.28.2</span><br /><pre class="errorlines">
+<span class="lineno"> 110 </span>    testImplementation <span class="string">'org.robolectric:robolectric:3.5.1'</span>
+<span class="lineno"> 111 </span>    testImplementation <span class="string">'org.assertj:assertj-core:3.8.0'</span>
+<span class="lineno"> 112 </span>    testImplementation <span class="string">'com.squareup.assertj:assertj-android:1.1.1'</span>
+<span class="caretline"><span class="lineno"> 113 </span>    <span class="warning">testImplementation <span class="string">'org.mockito:mockito-core:2.13.0'</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 114 </span>}
+</pre>
 
 </div>
 <div class="metadata"><div class="explanation" id="explanationGradleDependency" style="display: none;">
@@ -1173,6 +1199,15 @@ The unused resource check can ignore tests. If you want to include resources tha
 <br/>
 You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.<br/>Note: This issue has an associated quickfix operation in Android Studio and IntelliJ IDEA.<br>
 To suppress this error, use the issue id "UnusedIds" as explained in the <a href="#SuppressInfo">Suppressing Warnings and Errors</a> section.<br/>
+<br/></div>
+</div>
+</div>
+<div class="issue">
+<div class="id">ValidActionsXml<div class="issueSeparator"></div>
+</div>
+<div class="metadata">Disabled By: Default<br/>
+<div class="explanation">
+Ensures that an actions XML file is properly formed<br/>To suppress this error, use the issue id "ValidActionsXml" as explained in the <a href="#SuppressInfo">Suppressing Warnings and Errors</a> section.<br/>
 <br/></div>
 </div>
 </div>
